@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bruteforce/static/css/main.de2c481a.chunk.css",
+    "main.js": "/bruteforce/static/js/main.9dd6ca87.chunk.js",
+    "main.js.map": "/bruteforce/static/js/main.9dd6ca87.chunk.js.map",
+    "runtime-main.js": "/bruteforce/static/js/runtime-main.93dfe1ff.js",
+    "runtime-main.js.map": "/bruteforce/static/js/runtime-main.93dfe1ff.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/bruteforce/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.27882807.chunk.js": "/bruteforce/static/js/2.27882807.chunk.js",
+    "static/js/2.27882807.chunk.js.map": "/bruteforce/static/js/2.27882807.chunk.js.map",
+    "static/js/3.de420d4f.chunk.js": "/bruteforce/static/js/3.de420d4f.chunk.js",
+    "static/js/3.de420d4f.chunk.js.map": "/bruteforce/static/js/3.de420d4f.chunk.js.map",
+    "index.html": "/bruteforce/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/bruteforce/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.de2c481a.chunk.css.map": "/bruteforce/static/css/main.de2c481a.chunk.css.map",
+    "static/js/2.27882807.chunk.js.LICENSE.txt": "/bruteforce/static/js/2.27882807.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93dfe1ff.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.27882807.chunk.js",
+    "static/css/main.de2c481a.chunk.css",
+    "static/js/main.9dd6ca87.chunk.js"
+  ]
+}
